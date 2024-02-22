@@ -12,7 +12,7 @@ export default function Home() {
   </Head>
     <main>
 <h1>The Story of Julia</h1>
-        <p>Once upon a time, in a quaint village nestled between rolling green hills and vibrant meadows, there lived a young woman named Julia. Julia was known throughout the land not just for her kindness and grace, but also for her extraordinary beauty, marked distinctly by her long, flowing blonde hair that shimmered like gold under the sun's gentle caress.</p>
+        <p>Once upon a time, in a quaint village nestled between rolling green hills and vibrant meadows, there lived a young woman named Julia. Julia was known throughout the land not just for her kindness and grace, but also for her extraordinary beauty, marked distinctly by her long, flowing blonde hair that shimmered like gold under the {`sun's`} gentle caress.</p>
 
         <p>{`Julia's`} hair was the talk of the village; it was as if strands of the finest silk were spun with threads of sunlight. When she walked through the meadows, her hair flowed behind her like a golden cloak, dancing with the breeze and mingling with the rays of light that filtered through the trees. The flowers seemed to bow in her presence, as if acknowledging the radiance that she carried effortlessly.</p>
 
